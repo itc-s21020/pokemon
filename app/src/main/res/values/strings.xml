@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ポケットモンスター</string>
+    <string name="pokemon_id">ポケモンのID</string>
+    <string name="display">表示</string>
+</resources>
